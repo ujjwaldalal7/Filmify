@@ -1,0 +1,92 @@
+[
+  {
+    "showId": 101,
+    "movieId": 1,
+    "theatreId": 1,
+    "date": "2025-02-10",
+    "time": "18:00",
+    "price": 200,
+    "totalSeats": ["A1","A2","A3","A4","A5","B1","B2","B3","B4","B5"]
+  },
+  {
+    "showId": 102,
+    "movieId": 1,
+    "theatreId": 3,
+    "date": "2025-02-10",
+    "time": "21:00",
+    "price": 200,
+    "totalSeats": ["A1","A2","A3","A4","B1","B2","B3","C1","C2","C3"]
+  },
+  {
+    "showId": 103,
+    "movieId": 2,
+    "theatreId": 5,
+    "date": "2025-02-11",
+    "time": "17:00",
+    "price": 200,
+    "totalSeats": ["A1","A2","A3","A4","B1","B2","B3","C1","C2"]
+  },
+  {
+    "showId": 104,
+    "movieId": 3,
+    "theatreId": 7,
+    "date": "2025-02-11",
+    "time": "20:00",
+    "price": 200,
+    "totalSeats": ["A1","A2","A3","A4","A5","A6","B1","B2","B3","B4"]
+  },
+  {
+    "showId": 105,
+    "movieId": 5,
+    "theatreId": 9,
+    "date": "2025-02-12",
+    "time": "14:00",
+    "price": 200,
+    "totalSeats": ["A1","A2","A3","B1","B2","B3","C1","C2","C3"]
+  },
+  {
+    "showId": 106,
+    "movieId": 6,
+    "theatreId": 12,
+    "date": "2025-02-12",
+    "time": "19:00",
+    "price": 200,
+    "totalSeats": ["A1","A2","A3","A4","B1","B2","B3","B4"]
+  },
+  {
+    "showId": 107,
+    "movieId": 7,
+    "theatreId": 14,
+    "date": "2025-02-13",
+    "time": "16:30",
+    "price": 200,
+    "totalSeats": ["A1","A2","A3","A4","A5","B1","B2","B3"]
+  },
+  {
+    "showId": 108,
+    "movieId": 8,
+    "theatreId": 4,
+    "date": "2025-02-13",
+    "time": "22:00",
+    "price": 200,
+    "totalSeats": ["A1","A2","A3","A4","B1","B2","C1","C2"]
+  },
+  {
+    "showId": 109,
+    "movieId": 9,
+    "theatreId": 13,
+    "date": "2025-02-14",
+    "time": "11:00",
+    "price": 200,
+    "totalSeats": ["A1","A2","A3","A4","A5","B1","B2","B3","B4"]
+  },
+  {
+    "showId": 110,
+    "movieId": 10,
+    "theatreId": 2,
+    "date": "2025-02-14",
+    "time": "20:30",
+    "price": 200,
+    "totalSeats": ["A1","A2","A3","B1","B2","C1","C2","C3"]
+  }
+]

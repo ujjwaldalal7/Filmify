@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "PVR Phoenix Marketcity",
+    "city": "Mumbai",
+    "location": "Kurla",
+    "screens": 4
+  },
+  {
+    "id": 2,
+    "name": "INOX Raghuleela Mall",
+    "city": "Mumbai",
+    "location": "Kandivali",
+    "screens": 3
+  },
+  {
+    "id": 3,
+    "name": "PVR Select Citywalk",
+    "city": "Delhi",
+    "location": "Saket",
+    "screens": 3
+  },
+  {
+    "id": 4,
+    "name": "Carnival Cinemas",
+    "city": "Delhi",
+    "location": "Rohini",
+    "screens": 2
+  },
+  {
+    "id": 5,
+    "name": "INOX Garuda Mall",
+    "city": "Bengaluru",
+    "location": "Ashok Nagar",
+    "screens": 3
+  },
+  {
+    "id": 6,
+    "name": "PVR Orion Mall",
+    "city": "Bengaluru",
+    "location": "Dr Rajkumar Road",
+    "screens": 4
+  },
+  {
+    "id": 7,
+    "name": "Sathyam Cinemas",
+    "city": "Chennai",
+    "location": "Royapettah",
+    "screens": 3
+  },
+  {
+    "id": 8,
+    "name": "PVR Ampa Skywalk",
+    "city": "Chennai",
+    "location": "Aminjikarai",
+    "screens": 2
+  },
+  {
+    "id": 9,
+    "name": "INOX Mani Square",
+    "city": "Kolkata",
+    "location": "Maniktala",
+    "screens": 3
+  },
+  {
+    "id": 10,
+    "name": "PVR Avani Riverside",
+    "city": "Kolkata",
+    "location": "Howrah",
+    "screens": 2
+  },
+  {
+    "id": 11,
+    "name": "Rajhans Cinemas",
+    "city": "Surat",
+    "location": "Adajan",
+    "screens": 2
+  },
+  {
+    "id": 12,
+    "name": "Cinepolis Seasons Mall",
+    "city": "Pune",
+    "location": "Hadapsar",
+    "screens": 3
+  },
+  {
+    "id": 13,
+    "name": "PVR Pavilion Mall",
+    "city": "Ludhiana",
+    "location": "Ferozepur Road",
+    "screens": 2
+  },
+  {
+    "id": 14,
+    "name": "Wave Cinemas",
+    "city": "Noida",
+    "location": "Sector 18",
+    "screens": 3
+  },
+  {
+    "id": 15,
+    "name": "INOX City Centre",
+    "city": "Raipur",
+    "location": "Pandri",
+    "screens": 2
+  }
+]

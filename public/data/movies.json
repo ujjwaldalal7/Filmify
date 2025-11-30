@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "3 Idiots",
+    "genre": "Comedy/Drama",
+    "duration": 170,
+    "rating": 8.4,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYqxeOdm9-JVUCbzO_Sfrl4q7j7gvzG-g7q_mBmPNBjOzX7DMQWdtVGgV8aqLYT09uVysES2USlqbR6chShIb223_7SANX40bJSqYQmONp4w&s=10",
+    "trailer": "/data/temp.mp4",
+    "description": "Three engineering students navigate friendship, pressure, and purpose."
+  },
+  {
+    "id": 2,
+    "title": "Dangal",
+    "genre": "Biography/Sports",
+    "duration": 161,
+    "rating": 8.3,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_FMjpg_UX1000_.jpg",
+    "trailer": "/data/temp.mp4",
+    "description": "A father trains his daughters to become world-class wrestlers."
+  },
+  {
+    "id": 3,
+    "title": "Bajrangi Bhaijaan",
+    "genre": "Drama/Adventure",
+    "duration": 163,
+    "rating": 8.0,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3KY7WVqitFm8DfZku6OsKY7kPWFgYF4wVI-X2WvYuidVbu2YRvmjIFj8_3hSihUwnb9poHmkrtyOJrnjwGffl77UiA3T018HK034pu3pb&s=10",
+    "trailer": "/data/temp.mp4",
+    "description": "A kind-hearted man reunites a lost girl with her family across the border."
+  },
+  {
+    "id": 4,
+    "title": "PK",
+    "genre": "Comedy/Drama",
+    "duration": 153,
+    "rating": 8.1,
+    "poster": "https://images.filmibeat.com/ph-big/2014/12/exclusive-first-look-of-pk_141838247000.jpg",
+    "trailer": "/data/temp.mp4",
+    "description": "An alien questions social and religious dogmas on Earth."
+  },
+  {
+    "id": 5,
+    "title": "Gully Boy",
+    "genre": "Musical/Drama",
+    "duration": 154,
+    "rating": 7.9,
+    "poster": "https://images.ottplay.com/posters/Gully_Boy_2019_movie_poster_1.jpg",
+    "trailer": "/data/temp.mp4",
+    "description": "A Mumbai slum boy follows his dream of becoming a rapper."
+  },
+  {
+    "id": 6,
+    "title": "Kabir Singh",
+    "genre": "Drama/Romance",
+    "duration": 173,
+    "rating": 7.1,
+    "poster": "https://i.pinimg.com/736x/e5/a8/db/e5a8db5d9d12f7a1086731b45a9b0b21.jpg",
+    "trailer": "/data/temp.mp4",
+    "description": "A brilliant surgeon spirals out of control after heartbreak."
+  },
+  {
+    "id": 7,
+    "title": "Jawan",
+    "genre": "Action/Thriller",
+    "duration": 169,
+    "rating": 7.5,
+    "poster": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202309/shah-rukh-khan--jawan--srk-films-295651-3x4.jpg?VersionId=RGX_q3pk2AWWdkkOYhypoZSFxDHwV.vF",
+    "trailer": "/data/temp.mp4",
+    "description": "A man fights corruption with the help of a group of women warriors."
+  },
+  {
+    "id": 8,
+    "title": "Pathaan",
+    "genre": "Action/Spy",
+    "duration": 146,
+    "rating": 6.9,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi7Jj1HSHylgbNkDcX-rdKp9G7UOXGUUSt2w&s",
+    "trailer": "/data/temp.mp4",
+    "description": "An Indian spy returns from exile to stop a national threat."
+  },
+  {
+    "id": 9,
+    "title": "War",
+    "genre": "Action/Thriller",
+    "duration": 154,
+    "rating": 6.5,
+    "poster": "https://upload.wikimedia.org/wikipedia/en/6/6f/War_official_poster.jpg",
+    "trailer": "/data/temp.mp4",
+    "description": "An Indian soldier attempts to eliminate his former mentor."
+  },
+  {
+    "id": 10,
+    "title": "Zindagi Na Milegi Dobara",
+    "genre": "Adventure/Drama",
+    "duration": 155,
+    "rating": 8.2,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGIzYzg5NzItNDRkYS00NmIzLTk3NzQtZWYwY2VlZDhiYWQ4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "trailer": "/data/temp.mp4",
+    "description": "Three friends go on a road trip that changes their lives."
+  }
+]

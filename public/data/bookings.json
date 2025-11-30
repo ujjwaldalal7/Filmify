@@ -1,0 +1,20 @@
+[
+  {
+    "bookingId": 5001,
+    "userId": 1,
+    "movieId": 1,
+    "showId": 101,
+    "seats": ["A1", "A2"],
+    "totalAmount": 400,
+    "bookingDate": "2025-02-05"
+  },
+  {
+    "bookingId": 5002,
+    "userId": 2,
+    "movieId": 3,
+    "showId": 104,
+    "seats": ["B1"],
+    "totalAmount": 200,
+    "bookingDate": "2025-02-06"
+  }
+]

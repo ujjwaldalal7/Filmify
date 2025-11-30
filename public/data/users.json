@@ -1,0 +1,23 @@
+[
+  {
+    "userId": 1,
+    "name": "Aman Sharma",
+    "email": "aman@gmail.com",
+    "password": "123456",
+    "role": "user"
+  },
+  {
+    "userId": 2,
+    "name": "Priya Patel",
+    "email": "priya@gmail.com",
+    "password": "123456",
+    "role": "user"
+  },
+  {
+    "userId": 3,
+    "name": "Admin",
+    "email": "admin@filmify.com",
+    "password": "admin123",
+    "role": "admin"
+  }
+]
