@@ -18,7 +18,6 @@ else if (!existingUsers.some(u => u.role === "admin")) {
 }
 
 
-// ---- AUTH FUNCTIONS ----
 
 export function isAdmin() {
   const user = getCurrentUser();

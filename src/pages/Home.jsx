@@ -17,14 +17,12 @@ export default function Home() {
   return (
     <div className="home-container">
 
-      {/* HERO SECTION */}
       <div className="hero-box">
         <h1 className="hero-title">Welcome to Filmify 🎬</h1>
         <p className="hero-subtitle">Your Online Movie Ticket Booking Platform</p>
         <Link to="/movies" className="browse-btn">Browse Movies →</Link>
       </div>
 
-      {/* FEATURED SECTION */}
       <div className="featured-box">
         <img src={movies[0]?.poster || "/data/temp-poster.jpg"} alt="Featured" />
         <div className="featured-info">
@@ -33,7 +31,6 @@ export default function Home() {
         </div>
       </div>
 
-      {/* MOVIE SECTION */}
       <h2 className="section-title">Now Showing</h2>
 
       <div className="home-movie-grid">

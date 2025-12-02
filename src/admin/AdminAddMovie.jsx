@@ -42,7 +42,6 @@ export default function AdminAddMovie() {
 
     saveMovies([...movies, newMovie]);
 
-    // Reset
     setTitle("");
     setGenre("");
     setDuration("");

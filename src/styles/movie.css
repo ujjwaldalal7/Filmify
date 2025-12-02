@@ -1,6 +1,3 @@
-/* ---------------------------------------
-   🎬 MOVIE GRID
---------------------------------------- */
 .movie-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
@@ -54,10 +51,6 @@
   background: #222;
 }
 
-
-/* ---------------------------------------
-   🎬 MOVIE DETAILS PAGE
---------------------------------------- */
 .movie-details-wrapper {
   max-width: 1100px;
   margin: 40px auto;
@@ -67,7 +60,6 @@
   animation: fadeIn 0.4s ease;
 }
 
-/* LEFT COLUMN */
 .left-column {
   width: 320px;
   display: flex;
@@ -76,7 +68,6 @@
   align-items: center;
 }
 
-/* Poster */
 .details-poster {
   width: 100%;
   height: 460px;
@@ -85,7 +76,6 @@
   box-shadow: 0 6px 18px rgba(0,0,0,0.25);
 }
 
-/* Trailer (embedded video) */
 .embedded-trailer {
   width: 100%;
   height: 190px;
@@ -94,7 +84,6 @@
   background: #000;
 }
 
-/* RIGHT COLUMN */
 .details-info {
   flex: 1;
   padding-top: 10px;
@@ -105,7 +94,6 @@
   margin-bottom: 8px;
 }
 
-/* Description */
 .details-desc {
   margin: 16px 0;
   font-size: 16px;
@@ -113,7 +101,6 @@
   line-height: 1.5;
 }
 
-/* Buttons */
 .details-buttons {
   margin-top: 25px;
 }
@@ -135,16 +122,6 @@
   transform: translateY(-2px);
 }
 
-/* Fade Animation */
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(10px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-
-
-/* ---------------------------------------
-   🎬 TABLES (THEATRE LIST, SHOW LIST)
---------------------------------------- */
 .table-wrapper {
   margin: 25px auto;
   max-width: 900px;
@@ -201,7 +178,6 @@
 .table-btn:hover {
   background: #222;
 }
-
 
 .show-card {
   background: white;

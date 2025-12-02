@@ -143,24 +143,21 @@
   background: rgb(160, 0, 0);
 }
 
-/* ---- Admin Add Movie form: constrained + responsive ---- */
 .admin-add-container {
-  max-width: 900px;       /* overall page container */
+  max-width: 900px;       
   margin: 40px auto;
   padding: 20px;
 }
 
-/* card that holds the form — constrain width and center it */
 .admin-form-card {
-  max-width: 720px;        /* important: limits how wide inputs can grow */
-  margin: 0 auto;          /* center the card */
+  max-width: 720px;   
+  margin: 0 auto;         
   background: #fff;
   padding: 22px;
   border-radius: 10px;
   box-shadow: 0 2px 12px rgba(0,0,0,0.08);
 }
 
-/* make form elements full width relative to the card, but not page */
 .admin-input,
 .admin-select,
 .admin-textarea {
@@ -175,7 +172,6 @@
   transition: 0.15s ease;
 }
 
-/* nicer focus */
 .admin-input:focus,
 .admin-select:focus,
 .admin-textarea:focus {
@@ -183,7 +179,6 @@
   box-shadow: 0 2px 8px rgba(0,0,0,0.04);
 }
 
-/* submit button */
 .admin-submit-btn {
   display: inline-block;
   background: #111;
@@ -196,7 +191,6 @@
   font-weight: 600;
 }
 
-/* smaller table and spacing below */
 .admin-table {
   margin-top: 28px;
   border-collapse: collapse;
@@ -206,7 +200,6 @@
   overflow: hidden;
 }
 
-/* optional 2-column layout for larger screens */
 .admin-form-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -214,17 +207,14 @@
   align-items: start;
 }
 
-/* make textarea span full width */
 .admin-form-grid .admin-textarea {
   grid-column: 1 / -1;
 }
 
-/* make the trailer input span full width (last row) */
 .admin-form-grid .admin-input.trailer-field {
   grid-column: 1 / -1;
 }
 
-/* responsive: collapse to single column on smaller screens */
 @media (max-width: 760px) {
   .admin-form-card {
     padding: 18px;
