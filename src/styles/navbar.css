@@ -8,7 +8,6 @@
   position: sticky;
   top: 0;
   z-index: 1000;
-
 }
 
 .nav-logo {
@@ -16,6 +15,7 @@
   font-weight: bold;
 }
 
+/* Desktop Links */
 .nav-links {
   display: flex;
   gap: 18px;
@@ -54,4 +54,25 @@
 
 .logout:hover {
   background: #c42c2c !important;
+}
+
+@media (max-width: 768px) {
+
+  .navbar {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .nav-links {
+    width: 100%;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 14px;
+  }
+
+  .nav-btn {
+    width: 100%;
+    max-width: 200px;
+    text-align: center;
+  }
 }
